@@ -1,18 +1,18 @@
 CC=gcc 
 CFLAGS=-Wall -Werror -std=c99
-all: BFS Bellman-Ford DFS Dijkstra Floyd-Warshall bfsQueue dfsRecursive euler hamiltonian strongly_connected_components topologicalSort transitiveClosure
+all: BFS Bellman_Ford DFS Dijkstra Floyd_Warshall bfsQueue dfsRecursive euler hamiltonian strongly_connected_components topologicalSort transitiveClosure
 
 
 BFS: BFS.c
 	$(CC) -o BFS BFS.c
-Bellman-Ford: Bellman-Ford.c
-	$(CC) -o Bellman-Ford Bellman-Ford.c
+Bellman-Ford: Bellman_Ford.c
+	$(CC) -o Bellman_Ford Bellman_Ford.c
 DFS: DFS.c
 	$(CC) -o DFS DFS.c
 Dijkstra: Dijkstra.c
 	$(CC) -o Dijkstra Dijkstra.c
-Floyd-Warshall: Floyd-Warshall.c
-	$(CC) -o Floyd-Warshall Floyd-Warshall.c
+Floyd-Warshall: Floyd_Warshall.c
+	$(CC) -o Floyd_Warshall Floyd_Warshall.c
 Graph.o: Graph.c Graph.h
 	$(CC) $(CFLAGS) -c Graph.c
 bfsQueue: Graph.o queue.o bfsQueue.o

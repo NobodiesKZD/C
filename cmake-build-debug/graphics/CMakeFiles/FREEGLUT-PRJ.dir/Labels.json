@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/CMakeFiles/FREEGLUT-PRJ"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/CMakeFiles/FREEGLUT-PRJ.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/CMakeFiles/FREEGLUT-PRJ-complete.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-install.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-mkdir.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-download.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-update.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-patch.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-configure.rule"
+		},
+		{
+			"file" : "G:/CLionProjects/C/cmake-build-debug/graphics/freeglut/src/FREEGLUT-PRJ-stamp/FREEGLUT-PRJ-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"FREEGLUT-PRJ"
+		],
+		"name" : "FREEGLUT-PRJ"
+	}
+}

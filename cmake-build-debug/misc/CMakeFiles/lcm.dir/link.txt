@@ -1,0 +1,3 @@
+"D:\Program Files\CMake\bin\cmake.exe" -E remove -f CMakeFiles\lcm.dir/objects.a
+D:\MinGW\bin\ar.exe cr CMakeFiles\lcm.dir/objects.a @CMakeFiles\lcm.dir\objects1.rsp
+D:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\lcm.dir/objects.a -Wl,--no-whole-archive  -o lcm.exe -Wl,--out-implib,liblcm.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\lcm.dir\linklibs.rsp

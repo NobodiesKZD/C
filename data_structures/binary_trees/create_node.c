@@ -34,6 +34,7 @@ int main(void)
        and tree can be formed by creating further nodes at
        nameOfNode->leftNode and so on.
     */
-
+    int i = 100;
+    printf("%d",i);
     return 0;
 }

@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="Algorithms_in_C" targetName="adaline_learning" />
+      <config projectName="Algorithms_in_C" targetName="problem_10-sol2" />
+      <config projectName="Algorithms_in_C" targetName="pancake_sort" />
+      <config projectName="Algorithms_in_C" targetName="hash_crc32" />
+      <config projectName="Algorithms_in_C" targetName="k_means_clustering" />
+      <config projectName="Algorithms_in_C" targetName="ode_midpoint_euler" />
+      <config projectName="Algorithms_in_C" targetName="problem_10-sol1" />
+      <config projectName="Algorithms_in_C" targetName="quick_sort" />
+      <config projectName="Algorithms_in_C" targetName="longest_subsequence" />
+      <config projectName="Algorithms_in_C" targetName="pid" />
+      <config projectName="Algorithms_in_C" targetName="jump_search" />
+      <config projectName="Algorithms_in_C" targetName="cocktail_sort" />
+      <config projectName="Algorithms_in_C" targetName="hash_sdbm" />
+      <config projectName="Algorithms_in_C" targetName="gauss_elimination" />
+      <config projectName="Algorithms_in_C" targetName="cycle_sort" />
+      <config projectName="Algorithms_in_C" targetName="factorial_trailing_zeroes" />
+      <config projectName="Algorithms_in_C" targetName="interpolation_search" />
+      <config projectName="Algorithms_in_C" targetName="tower_of_hanoi" />
+      <config projectName="Algorithms_in_C" targetName="c_atoi_str_to_integer" />
+      <config projectName="Algorithms_in_C" targetName="problem_25-sol1" />
+      <config projectName="Algorithms_in_C" targetName="modified_binary_search" />
+      <config projectName="Algorithms_in_C" targetName="fibonacci_search" />
+      <config projectName="Algorithms_in_C" targetName="collatz" />
+      <config projectName="Algorithms_in_C" targetName="counting_sort" />
+      <config projectName="Algorithms_in_C" targetName="demonetization" />
+      <config projectName="Algorithms_in_C" targetName="fibonacci_fast" />
+      <config projectName="Algorithms_in_C" targetName="decimal_to_binary_recursion" />
+      <config projectName="Algorithms_in_C" targetName="factorial_large_number" />
+      <config projectName="Algorithms_in_C" targetName="radix_sort" />
+      <config projectName="Algorithms_in_C" targetName="vectors_3d" />
+      <config projectName="Algorithms_in_C" targetName="decimal_to_octal" />
+      <config projectName="Algorithms_in_C" targetName="hash_xor8" />
+      <config projectName="Algorithms_in_C" targetName="fibonacci_dp" />
+      <config projectName="Algorithms_in_C" targetName="other_binary_search" />
+      <config projectName="Algorithms_in_C" targetName="shaker_sort" />
+      <config projectName="Algorithms_in_C" targetName="mirror" />
+      <config projectName="Algorithms_in_C" targetName="merge_sort" />
+      <config projectName="Algorithms_in_C" targetName="median" />
+      <config projectName="Algorithms_in_C" targetName="problem_21-sol1" />
+      <config projectName="Algorithms_in_C" targetName="problem_5-sol" />
+      <config projectName="Algorithms_in_C" targetName="binary_to_hexadecimal" />
+      <config projectName="Algorithms_in_C" targetName="problem_1-sol4" />
+      <config projectName="Algorithms_in_C" targetName="comb_sort" />
+      <config projectName="Algorithms_in_C" targetName="problem_1-sol1" />
+      <config projectName="Algorithms_in_C" targetName="problem_1-sol2" />
+      <config projectName="Algorithms_in_C" targetName="simpsons_1_3rd_rule" />
+      <config projectName="Algorithms_in_C" targetName="problem_1-sol3" />
+      <config projectName="Algorithms_in_C" targetName="shell_sort" />
+      <config projectName="Algorithms_in_C" targetName="binary_to_octal" />
+      <config projectName="Algorithms_in_C" targetName="merge_sort_nr" />
+      <config projectName="Algorithms_in_C" targetName="binary_search" />
+      <config projectName="Algorithms_in_C" targetName="hash_djb2" />
+      <config projectName="Algorithms_in_C" targetName="problem_22-sol1" />
+      <config projectName="Algorithms_in_C" targetName="quartile" />
+      <config projectName="Algorithms_in_C" targetName="lcm" />
+      <config projectName="Algorithms_in_C" targetName="client" />
+      <config projectName="Algorithms_in_C" targetName="shell_sort2" />
+      <config projectName="Algorithms_in_C" targetName="kohonen_som_topology" />
+      <config projectName="Algorithms_in_C" targetName="variance" />
+      <config projectName="Algorithms_in_C" targetName="random_quick_sort" />
+      <config projectName="Algorithms_in_C" targetName="gauss_seidel_method" />
+      <config projectName="Algorithms_in_C" targetName="problem_7-sol" />
+      <config projectName="Algorithms_in_C" targetName="prime_factoriziation" />
+      <config projectName="Algorithms_in_C" targetName="binary_insertion_sort" />
+      <config projectName="Algorithms_in_C" targetName="int_to_string" />
+      <config projectName="Algorithms_in_C" targetName="is_armstrong" />
+      <config projectName="Algorithms_in_C" targetName="cantor_set" />
+      <config projectName="Algorithms_in_C" targetName="hexadecimal_to_octal" />
+      <config projectName="Algorithms_in_C" targetName="lagrange_theorem" />
+      <config projectName="Algorithms_in_C" targetName="bead_sort" />
+      <config projectName="Algorithms_in_C" targetName="problem_15-sol1" />
+      <config projectName="Algorithms_in_C" targetName="linear_search" />
+      <config projectName="Algorithms_in_C" targetName="hash_adler32" />
+      <config projectName="Algorithms_in_C" targetName="problem_2-so1" />
+      <config projectName="Algorithms_in_C" targetName="mean" />
+      <config projectName="Algorithms_in_C" targetName="bogo_sort" />
+      <config projectName="Algorithms_in_C" targetName="to_decimal" />
+      <config projectName="Algorithms_in_C" targetName="problem_12-sol1" />
+      <config projectName="Algorithms_in_C" targetName="stooge_sort" />
+      <config projectName="Algorithms_in_C" targetName="palindrome" />
+      <config projectName="Algorithms_in_C" targetName="gcd" />
+      <config projectName="Algorithms_in_C" targetName="quaternions" />
+      <config projectName="Algorithms_in_C" targetName="problem_16-sol1" />
+      <config projectName="Algorithms_in_C" targetName="gnome_sort" />
+      <config projectName="Algorithms_in_C" targetName="ode_semi_implicit_euler" />
+      <config projectName="Algorithms_in_C" targetName="bubble_sort" />
+      <config projectName="Algorithms_in_C" targetName="prime" />
+      <config projectName="Algorithms_in_C" targetName="pigeonhole_sort" />
+      <config projectName="Algorithms_in_C" targetName="spirograph" />
+      <config projectName="Algorithms_in_C" targetName="qr_eigen_values" />
+      <config projectName="Algorithms_in_C" targetName="problem_14-sol1" />
+      <config projectName="Algorithms_in_C" targetName="partition_sort" />
+      <config projectName="Algorithms_in_C" targetName="selection_sort" />
+      <config projectName="Algorithms_in_C" targetName="tic_tac_toe" />
+      <config projectName="Algorithms_in_C" targetName="decimal_to_binary" />
+      <config projectName="Algorithms_in_C" targetName="udp_server" />
+      <config projectName="Algorithms_in_C" targetName="problem_8-sol1" />
+      <config projectName="Algorithms_in_C" targetName="problem_8-sol2" />
+      <config projectName="Algorithms_in_C" targetName="server" />
+      <config projectName="Algorithms_in_C" targetName="strong_number" />
+      <config projectName="Algorithms_in_C" targetName="ternary_search" />
+      <config projectName="Algorithms_in_C" targetName="problem_401-sol1" />
+      <config projectName="Algorithms_in_C" targetName="realtime_stats" />
+      <config projectName="Algorithms_in_C" targetName="bubble_sort_recursion" />
+      <config projectName="Algorithms_in_C" targetName="bucket_sort" />
+      <config projectName="Algorithms_in_C" targetName="FREEGLUT-PRJ" />
+      <config projectName="Algorithms_in_C" targetName="problem_13-sol1" />
+      <config projectName="Algorithms_in_C" targetName="lerp" />
+      <config projectName="Algorithms_in_C" targetName="lexicographic_permutations" />
+      <config projectName="Algorithms_in_C" targetName="problem_19-sol1" />
+      <config projectName="Algorithms_in_C" targetName="factorial" />
+      <config projectName="Algorithms_in_C" targetName="catalan" />
+      <config projectName="Algorithms_in_C" targetName="fibonacci" />
+      <config projectName="Algorithms_in_C" targetName="lu_decompose" />
+      <config projectName="Algorithms_in_C" targetName="decimal_to_octal_recursion" />
+      <config projectName="Algorithms_in_C" targetName="multikey_quick_sort" />
+      <config projectName="Algorithms_in_C" targetName="binary_to_decimal" />
+      <config projectName="Algorithms_in_C" targetName="armstrong_number" />
+      <config projectName="Algorithms_in_C" targetName="cartesian_to_polar" />
+      <config projectName="Algorithms_in_C" targetName="qr_decomposition" />
+      <config projectName="Algorithms_in_C" targetName="ode_forward_euler" />
+      <config projectName="Algorithms_in_C" targetName="problem_4-sol" />
+      <config projectName="Algorithms_in_C" targetName="bubble_sort_2" />
+      <config projectName="Algorithms_in_C" targetName="udp_client" />
+      <config projectName="Algorithms_in_C" targetName="newton_raphson_root" />
+      <config projectName="Algorithms_in_C" targetName="problem_3-sol2" />
+      <config projectName="Algorithms_in_C" targetName="rselect" />
+      <config projectName="Algorithms_in_C" targetName="decimal_to_hexa" />
+      <config projectName="Algorithms_in_C" targetName="problem_3-sol1" />
+      <config projectName="Algorithms_in_C" targetName="problem_9-sol2" />
+      <config projectName="Algorithms_in_C" targetName="problem_9-sol1" />
+      <config projectName="Algorithms_in_C" targetName="union_find" />
+      <config projectName="Algorithms_in_C" targetName="large_factorials" />
+      <config projectName="Algorithms_in_C" targetName="problem_6-sol" />
+      <config projectName="Algorithms_in_C" targetName="radix_sort_2" />
+      <config projectName="Algorithms_in_C" targetName="sudoku_solver" />
+      <config projectName="Algorithms_in_C" targetName="insertion_sort" />
+      <config projectName="Algorithms_in_C" targetName="problem_26-sol1" />
+      <config projectName="Algorithms_in_C" targetName="octal_to_decimal" />
+      <config projectName="Algorithms_in_C" targetName="kohonen_som_trace" />
+      <config projectName="Algorithms_in_C" targetName="problem_23-sol1" />
+      <config projectName="Algorithms_in_C" targetName="durand_kerner_roots" />
+      <config projectName="Algorithms_in_C" targetName="heap_sort" />
+      <config projectName="Algorithms_in_C" targetName="problem_23-sol2" />
+      <config projectName="Algorithms_in_C" targetName="problem_20-sol1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aa2bd1f3-3d97-4a3a-a19b-0b3a1b21730e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data_structures/binary_trees/create_node.c" beforeDir="false" afterPath="$PROJECT_DIR$/data_structures/binary_trees/create_node.c" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ghJqnw7O8VW2TIKKrk727akLq4" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="CMake Application.client">
+    <configuration name="FREEGLUT-PRJ" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="FREEGLUT-PRJ" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="adaline_learning" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="adaline_learning" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="adaline_learning">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="armstrong_number" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="armstrong_number" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="armstrong_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bead_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="bead_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="bead_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_insertion_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="binary_insertion_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="binary_insertion_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="binary_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="binary_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_to_decimal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="binary_to_decimal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="binary_to_decimal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_to_hexadecimal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="binary_to_hexadecimal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="binary_to_hexadecimal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_to_octal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="binary_to_octal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="binary_to_octal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bogo_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="bogo_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="bogo_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bubble_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="bubble_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="bubble_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bubble_sort_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="bubble_sort_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="bubble_sort_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bubble_sort_recursion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="bubble_sort_recursion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="bubble_sort_recursion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bucket_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="bucket_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="bucket_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="c_atoi_str_to_integer" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="c_atoi_str_to_integer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="c_atoi_str_to_integer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cantor_set" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="cantor_set" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="cantor_set">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cartesian_to_polar" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="cartesian_to_polar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="cartesian_to_polar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="catalan" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="catalan" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="catalan">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cocktail_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="cocktail_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="cocktail_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collatz" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="collatz" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="collatz">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="comb_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="comb_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="comb_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="counting_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="counting_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="counting_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cycle_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="cycle_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="cycle_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decimal_to_binary" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="decimal_to_binary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="decimal_to_binary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decimal_to_binary_recursion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="decimal_to_binary_recursion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="decimal_to_binary_recursion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decimal_to_hexa" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="decimal_to_hexa" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="decimal_to_hexa">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decimal_to_octal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="decimal_to_octal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="decimal_to_octal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="decimal_to_octal_recursion" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="decimal_to_octal_recursion" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="decimal_to_octal_recursion">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="demonetization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="demonetization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="demonetization">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="durand_kerner_roots" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="durand_kerner_roots" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="durand_kerner_roots">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="factorial" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="factorial">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial_large_number" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="factorial_large_number" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="factorial_large_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="factorial_trailing_zeroes" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="factorial_trailing_zeroes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="factorial_trailing_zeroes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="fibonacci" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="fibonacci">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci_dp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="fibonacci_dp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="fibonacci_dp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci_fast" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="fibonacci_fast" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="fibonacci_fast">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacci_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="fibonacci_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="fibonacci_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gauss_elimination" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="gauss_elimination" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="gauss_elimination">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gauss_seidel_method" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="gauss_seidel_method" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="gauss_seidel_method">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gcd" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="gcd" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="gcd">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gnome_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="gnome_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="gnome_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_adler32" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="hash_adler32" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="hash_adler32">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_crc32" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="hash_crc32" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="hash_crc32">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_djb2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="hash_djb2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="hash_djb2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_sdbm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="hash_sdbm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="hash_sdbm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hash_xor8" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="hash_xor8" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="hash_xor8">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="heap_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="heap_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="heap_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hexadecimal_to_octal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="hexadecimal_to_octal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="hexadecimal_to_octal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="insertion_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="insertion_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="insertion_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="int_to_string" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="int_to_string" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="int_to_string">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="interpolation_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="interpolation_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="interpolation_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="is_armstrong" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="is_armstrong" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="is_armstrong">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="jump_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="jump_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="jump_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="k_means_clustering" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="k_means_clustering" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="k_means_clustering">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kohonen_som_topology" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="kohonen_som_topology" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="kohonen_som_topology">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="kohonen_som_trace" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="kohonen_som_trace" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="kohonen_som_trace">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lagrange_theorem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="lagrange_theorem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="lagrange_theorem">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="large_factorials" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="large_factorials" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="large_factorials">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lcm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="lcm" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="lcm">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lerp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="lerp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="lerp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lexicographic_permutations" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="lexicographic_permutations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="lexicographic_permutations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linear_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="linear_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="linear_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="longest_subsequence" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="longest_subsequence" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="longest_subsequence">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lu_decompose" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="lu_decompose" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="lu_decompose">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mean" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="mean" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="mean">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="median" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="median" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="median">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="merge_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="merge_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="merge_sort_nr" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="merge_sort_nr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="merge_sort_nr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="mirror" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="mirror" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="mirror">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="modified_binary_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="modified_binary_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="modified_binary_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="multikey_quick_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="multikey_quick_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="multikey_quick_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="newton_raphson_root" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="newton_raphson_root" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="newton_raphson_root">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="octal_to_decimal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="octal_to_decimal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="octal_to_decimal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ode_forward_euler" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="ode_forward_euler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="ode_forward_euler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ode_midpoint_euler" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="ode_midpoint_euler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="ode_midpoint_euler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ode_semi_implicit_euler" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="ode_semi_implicit_euler" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="ode_semi_implicit_euler">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="other_binary_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="other_binary_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="other_binary_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="palindrome" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="palindrome" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="palindrome">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pancake_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="pancake_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="pancake_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="partition_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="partition_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="partition_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pid" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="pid" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="pid">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pigeonhole_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="pigeonhole_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="pigeonhole_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prime" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="prime" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="prime">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prime_factoriziation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="prime_factoriziation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="prime_factoriziation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_1-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_1-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_1-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_1-sol2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_1-sol2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_1-sol2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_1-sol3" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_1-sol3" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_1-sol3">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_1-sol4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_1-sol4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_1-sol4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_10-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_10-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_10-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_10-sol2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_10-sol2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_10-sol2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_12-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_12-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_12-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_13-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_13-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_13-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_14-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_14-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_14-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_15-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_15-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_15-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_16-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_16-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_16-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_19-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_19-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_19-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_2-so1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_2-so1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_2-so1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_20-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_20-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_20-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_21-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_21-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_21-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_22-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_22-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_22-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_23-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_23-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_23-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_23-sol2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_23-sol2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_23-sol2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_25-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_25-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_25-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_26-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_26-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_26-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_3-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_3-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_3-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_3-sol2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_3-sol2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_3-sol2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_4-sol" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_4-sol" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_4-sol">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_401-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_401-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_401-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_5-sol" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_5-sol" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_5-sol">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_6-sol" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_6-sol" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_6-sol">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_7-sol" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_7-sol" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_7-sol">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_8-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_8-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_8-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_8-sol2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_8-sol2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_8-sol2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_9-sol1" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_9-sol1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_9-sol1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem_9-sol2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="problem_9-sol2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="problem_9-sol2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qr_decomposition" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="qr_decomposition" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="qr_decomposition">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qr_eigen_values" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="qr_eigen_values" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="qr_eigen_values">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quartile" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="quartile" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="quartile">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quaternions" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="quaternions" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="quaternions">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="quick_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="quick_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radix_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="radix_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="radix_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="radix_sort_2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="radix_sort_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="radix_sort_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="random_quick_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="random_quick_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="random_quick_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="realtime_stats" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="realtime_stats" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="realtime_stats">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rselect" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="rselect" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="rselect">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="selection_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="selection_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="selection_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shaker_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="shaker_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="shaker_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shell_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="shell_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="shell_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shell_sort2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="shell_sort2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="shell_sort2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="simpsons_1_3rd_rule" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="simpsons_1_3rd_rule" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="simpsons_1_3rd_rule">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="spirograph" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="spirograph" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="spirograph">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="stooge_sort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="stooge_sort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="stooge_sort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="strong_number" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="strong_number" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="strong_number">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sudoku_solver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="sudoku_solver" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="sudoku_solver">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ternary_search" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="ternary_search" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="ternary_search">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tic_tac_toe" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="tic_tac_toe" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="tic_tac_toe">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="to_decimal" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="to_decimal" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="to_decimal">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tower_of_hanoi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="tower_of_hanoi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="tower_of_hanoi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udp_client" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="udp_client" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="udp_client">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="udp_server" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="udp_server" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="udp_server">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="union_find" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="union_find" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="union_find">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="variance" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="variance" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="variance">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vectors_3d" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Algorithms_in_C" TARGET_NAME="vectors_3d" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Algorithms_in_C" RUN_TARGET_NAME="vectors_3d">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.client" />
+      <item itemvalue="CMake Application.server" />
+      <item itemvalue="CMake Application.udp_client" />
+      <item itemvalue="CMake Application.udp_server" />
+      <item itemvalue="CMake Application.binary_to_decimal" />
+      <item itemvalue="CMake Application.binary_to_hexadecimal" />
+      <item itemvalue="CMake Application.binary_to_octal" />
+      <item itemvalue="CMake Application.c_atoi_str_to_integer" />
+      <item itemvalue="CMake Application.decimal_to_binary" />
+      <item itemvalue="CMake Application.decimal_to_binary_recursion" />
+      <item itemvalue="CMake Application.decimal_to_hexa" />
+      <item itemvalue="CMake Application.decimal_to_octal" />
+      <item itemvalue="CMake Application.decimal_to_octal_recursion" />
+      <item itemvalue="CMake Application.hexadecimal_to_octal" />
+      <item itemvalue="CMake Application.int_to_string" />
+      <item itemvalue="CMake Application.octal_to_decimal" />
+      <item itemvalue="CMake Application.to_decimal" />
+      <item itemvalue="CMake Application.tic_tac_toe" />
+      <item itemvalue="CMake Application.quaternions" />
+      <item itemvalue="CMake Application.vectors_3d" />
+      <item itemvalue="CMake Application.FREEGLUT-PRJ" />
+      <item itemvalue="CMake Application.spirograph" />
+      <item itemvalue="CMake Application.hash_adler32" />
+      <item itemvalue="CMake Application.hash_crc32" />
+      <item itemvalue="CMake Application.hash_djb2" />
+      <item itemvalue="CMake Application.hash_sdbm" />
+      <item itemvalue="CMake Application.hash_xor8" />
+      <item itemvalue="CMake Application.adaline_learning" />
+      <item itemvalue="CMake Application.k_means_clustering" />
+      <item itemvalue="CMake Application.kohonen_som_topology" />
+      <item itemvalue="CMake Application.kohonen_som_trace" />
+      <item itemvalue="CMake Application.armstrong_number" />
+      <item itemvalue="CMake Application.cantor_set" />
+      <item itemvalue="CMake Application.cartesian_to_polar" />
+      <item itemvalue="CMake Application.catalan" />
+      <item itemvalue="CMake Application.collatz" />
+      <item itemvalue="CMake Application.demonetization" />
+      <item itemvalue="CMake Application.factorial" />
+      <item itemvalue="CMake Application.factorial_large_number" />
+      <item itemvalue="CMake Application.factorial_trailing_zeroes" />
+      <item itemvalue="CMake Application.fibonacci" />
+      <item itemvalue="CMake Application.fibonacci_dp" />
+      <item itemvalue="CMake Application.fibonacci_fast" />
+      <item itemvalue="CMake Application.gcd" />
+      <item itemvalue="CMake Application.is_armstrong" />
+      <item itemvalue="CMake Application.large_factorials" />
+      <item itemvalue="CMake Application.lcm" />
+      <item itemvalue="CMake Application.lerp" />
+      <item itemvalue="CMake Application.lexicographic_permutations" />
+      <item itemvalue="CMake Application.longest_subsequence" />
+      <item itemvalue="CMake Application.mirror" />
+      <item itemvalue="CMake Application.palindrome" />
+      <item itemvalue="CMake Application.pid" />
+      <item itemvalue="CMake Application.prime" />
+      <item itemvalue="CMake Application.prime_factoriziation" />
+      <item itemvalue="CMake Application.quartile" />
+      <item itemvalue="CMake Application.rselect" />
+      <item itemvalue="CMake Application.strong_number" />
+      <item itemvalue="CMake Application.sudoku_solver" />
+      <item itemvalue="CMake Application.tower_of_hanoi" />
+      <item itemvalue="CMake Application.union_find" />
+      <item itemvalue="CMake Application.durand_kerner_roots" />
+      <item itemvalue="CMake Application.gauss_elimination" />
+      <item itemvalue="CMake Application.gauss_seidel_method" />
+      <item itemvalue="CMake Application.lagrange_theorem" />
+      <item itemvalue="CMake Application.lu_decompose" />
+      <item itemvalue="CMake Application.mean" />
+      <item itemvalue="CMake Application.median" />
+      <item itemvalue="CMake Application.newton_raphson_root" />
+      <item itemvalue="CMake Application.ode_forward_euler" />
+      <item itemvalue="CMake Application.ode_midpoint_euler" />
+      <item itemvalue="CMake Application.ode_semi_implicit_euler" />
+      <item itemvalue="CMake Application.qr_decomposition" />
+      <item itemvalue="CMake Application.qr_eigen_values" />
+      <item itemvalue="CMake Application.realtime_stats" />
+      <item itemvalue="CMake Application.simpsons_1_3rd_rule" />
+      <item itemvalue="CMake Application.variance" />
+      <item itemvalue="CMake Application.problem_1-sol1" />
+      <item itemvalue="CMake Application.problem_1-sol2" />
+      <item itemvalue="CMake Application.problem_1-sol3" />
+      <item itemvalue="CMake Application.problem_1-sol4" />
+      <item itemvalue="CMake Application.problem_10-sol1" />
+      <item itemvalue="CMake Application.problem_10-sol2" />
+      <item itemvalue="CMake Application.problem_12-sol1" />
+      <item itemvalue="CMake Application.problem_13-sol1" />
+      <item itemvalue="CMake Application.problem_14-sol1" />
+      <item itemvalue="CMake Application.problem_15-sol1" />
+      <item itemvalue="CMake Application.problem_16-sol1" />
+      <item itemvalue="CMake Application.problem_19-sol1" />
+      <item itemvalue="CMake Application.problem_2-so1" />
+      <item itemvalue="CMake Application.problem_20-sol1" />
+      <item itemvalue="CMake Application.problem_21-sol1" />
+      <item itemvalue="CMake Application.problem_22-sol1" />
+      <item itemvalue="CMake Application.problem_23-sol1" />
+      <item itemvalue="CMake Application.problem_23-sol2" />
+      <item itemvalue="CMake Application.problem_25-sol1" />
+      <item itemvalue="CMake Application.problem_26-sol1" />
+      <item itemvalue="CMake Application.problem_3-sol1" />
+      <item itemvalue="CMake Application.problem_3-sol2" />
+      <item itemvalue="CMake Application.problem_4-sol" />
+      <item itemvalue="CMake Application.problem_401-sol1" />
+      <item itemvalue="CMake Application.problem_5-sol" />
+      <item itemvalue="CMake Application.problem_6-sol" />
+      <item itemvalue="CMake Application.problem_7-sol" />
+      <item itemvalue="CMake Application.problem_8-sol1" />
+      <item itemvalue="CMake Application.problem_8-sol2" />
+      <item itemvalue="CMake Application.problem_9-sol1" />
+      <item itemvalue="CMake Application.problem_9-sol2" />
+      <item itemvalue="CMake Application.binary_search" />
+      <item itemvalue="CMake Application.fibonacci_search" />
+      <item itemvalue="CMake Application.interpolation_search" />
+      <item itemvalue="CMake Application.jump_search" />
+      <item itemvalue="CMake Application.linear_search" />
+      <item itemvalue="CMake Application.modified_binary_search" />
+      <item itemvalue="CMake Application.other_binary_search" />
+      <item itemvalue="CMake Application.ternary_search" />
+      <item itemvalue="CMake Application.bead_sort" />
+      <item itemvalue="CMake Application.binary_insertion_sort" />
+      <item itemvalue="CMake Application.bogo_sort" />
+      <item itemvalue="CMake Application.bubble_sort" />
+      <item itemvalue="CMake Application.bubble_sort_2" />
+      <item itemvalue="CMake Application.bubble_sort_recursion" />
+      <item itemvalue="CMake Application.bucket_sort" />
+      <item itemvalue="CMake Application.cocktail_sort" />
+      <item itemvalue="CMake Application.comb_sort" />
+      <item itemvalue="CMake Application.counting_sort" />
+      <item itemvalue="CMake Application.cycle_sort" />
+      <item itemvalue="CMake Application.gnome_sort" />
+      <item itemvalue="CMake Application.heap_sort" />
+      <item itemvalue="CMake Application.insertion_sort" />
+      <item itemvalue="CMake Application.merge_sort" />
+      <item itemvalue="CMake Application.merge_sort_nr" />
+      <item itemvalue="CMake Application.multikey_quick_sort" />
+      <item itemvalue="CMake Application.pancake_sort" />
+      <item itemvalue="CMake Application.partition_sort" />
+      <item itemvalue="CMake Application.pigeonhole_sort" />
+      <item itemvalue="CMake Application.quick_sort" />
+      <item itemvalue="CMake Application.radix_sort" />
+      <item itemvalue="CMake Application.radix_sort_2" />
+      <item itemvalue="CMake Application.random_quick_sort" />
+      <item itemvalue="CMake Application.selection_sort" />
+      <item itemvalue="CMake Application.shaker_sort" />
+      <item itemvalue="CMake Application.shell_sort" />
+      <item itemvalue="CMake Application.shell_sort2" />
+      <item itemvalue="CMake Application.stooge_sort" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa2bd1f3-3d97-4a3a-a19b-0b3a1b21730e" name="Default Changelist" comment="" />
+      <created>1598561083742</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598561083742</updated>
+      <workItem from="1598561085608" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
